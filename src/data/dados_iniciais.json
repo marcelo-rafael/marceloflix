@@ -2,40 +2,28 @@
   "categorias": [
     {
       "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Criando um projeto do zero para seu portfólio | Masterclass #14",
+          "url": "https://www.youtube.com/watch?v=EhnXaybirdA&t=476s"
         },
         {
           "titulo": "SEO com React",
           "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!",
+          "url": "https://www.youtube.com/watch?v=XQxitgyZ_S4&list=PLdPPE0hUkt0q7bwgAlk6UimtBKoNfM1tw&index=2&t=0s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!",
+          "url": "https://www.youtube.com/watch?v=GJ8Vm-h0V8I&list=PLdPPE0hUkt0q7bwgAlk6UimtBKoNfM1tw&index=3&t=1s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Entenda REDUX em UM VÍDEO! Store, Action, Action Creator, Reducers... Série React JS",
+          "url": "https://www.youtube.com/watch?v=J0g1cv_03XQ&list=PLdPPE0hUkt0q7bwgAlk6UimtBKoNfM1tw&index=4&t=2436s"
         },
         {
           "titulo": "Base para aprender os frameworks",
@@ -44,102 +32,114 @@
         {
           "titulo": "O que é React JS",
           "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&t=4s"
+        },
+        {
+          "titulo": "Utilizando Styled Components (CSS-in-JS) no ReactJS e React Native | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=R3S8DEzEn6s&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=8&t=0s"
+        },
+        {
+          "titulo": "React Hooks na prática | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=6WB16wZS61c&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=9&t=0s"
+        },
+        {
+          "titulo": "TypeScript com ReactJS, Redux e Redux Saga | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=OXxul6AvXNs&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=10&t=0s"
+        },
+        {
+          "titulo": "Iniciando com server-side rendering (SSR) no ReactJS com Next.js | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=aQFPetOyzUE&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=7&t=0s"
         }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "JavaScript",
+      "cor": "#F0D91D",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "01/10 Tudo é Objeto - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=2&t=230s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "02/10 Arrow Function - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=Zr1g1KqZaYY&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=3&t=0s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "03/10 Destructuring - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=4wwhyKZjYbY&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=4&t=0s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "04/10 Rest e Spread - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=8xgqEBE1SKI&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=5&t=0s"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "05/10 Modules - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=42JwezkHVVI&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=6&t=0s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "06/10 Fetch - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=fhIDgAfuJZ8&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=7&t=0sY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "07/10 Async / Await - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=Z5D_Jj6JStw&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=8&t=0s"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "08/10 Array - Map, Filter e Reduce - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=XiAtxDeP-p8&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=9&t=190s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "09/10 Expressões - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=pbLTGXxTfNo&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=10&t=224s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        },
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "10/10 Class - JavaScript Antes do Framework (React ou Vue.js)",
+          "url": "https://www.youtube.com/watch?v=ITdr-Z27UCE&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=11&t=0s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Séries",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Peaky Blinders | Season 5 Trailer | Netflix",
+          "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The Walking Dead Trailer ",
+          "url": "https://www.youtube.com/watch?v=sfAc2U20uyg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "STRANGER THINGS 4 Trailer Teaser (2020)",
+          "url": "https://www.youtube.com/watch?v=QsYMm3OOLRU"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Friends: The Reboot (2020 Trailer)",
+          "url": "https://www.youtube.com/watch?v=_bDyDdynzuw"
         },
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Dois Homens e Meio Trailer",
+          "url": "https://www.youtube.com/watch?v=6w6EazDIbK0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The Big Bang Theory - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=WBb3fojgW0Q"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Chernobyl (2019) | Official Trailer | HBO",
+          "url": "https://www.youtube.com/watch?v=s9APLXM9Ei8"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Game of Thrones: Season 1 Trailer",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+        },
+        {
+          "titulo": "The 100 | SEASON 1 TRAILER LEGENDADO",
+          "url": "https://www.youtube.com/watch?v=B2OrmjsFrVU"
+        },
+        {
+          "titulo": "Modern Family Season 11 Trailer (HD) Final Season",
+          "url": "https://www.youtube.com/watch?v=X0lRjbrH-L8"
         }
       ]
     },
@@ -184,52 +184,48 @@
     {
       "titulo": "Games",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Borderlands Trailer [HD]",
+          "url": "https://www.youtube.com/watch?v=Pr7QLCGg5o8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Borderlands 2 - Doomsday Trailer",
+          "url": "https://www.youtube.com/watch?v=kKVf5feSMEg"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Trailer oficial de anúncio de Borderlands 3",
+          "url": "https://www.youtube.com/watch?v=d9Gu1PspA3Y"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Demon's Souls - Announcement Trailer | PS5",
+          "url": "https://www.youtube.com/watch?v=2TMs2E6cms4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Bloodborne Debut Trailer | Face Your Fears | PlayStation 4 Action RPG",
+          "url": "https://www.youtube.com/watch?v=G203e1HhixY"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Dark Souls III – Launch Trailer | PS4",
+          "url": "https://www.youtube.com/watch?v=cWBwFhUv1-8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Dark Souls 2 Announcement Trailer",
+          "url": "https://www.youtube.com/watch?v=U6uyuIQYlfY"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Dark Souls: Remastered - Launch Trailer | PS4",
+          "url": "https://www.youtube.com/watch?v=Woe0PYZPxRw"
+        },
+        {
+          "titulo": "Bioshock Infinite Official Trailer [HD]",
+          "url": "https://www.youtube.com/watch?v=EsJ55BzIvkE"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
           "titulo": "Como estudar melhor?",

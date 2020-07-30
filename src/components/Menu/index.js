@@ -1,20 +1,23 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import Logo from "../../assets/img/Logo.png";
-import "./Menu.css";
-import Button from "../Button";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import Logo from '../../assets/img/Logo.png';
+import './Menu.css';
+// import ButtonLink from './components/ButtonLink' //uso sem styled -components
+import Button from '../Button'; // uso do styled-components
 
 function Menu() {
   return (
-    <nav className="Menu">
-      <Link to="/">
-        <img className="Logo" src={Logo} alt="Logo MarceloFlix" />
-      </Link>
+    <header>
+      <nav className="Menu">
+        <Link to="/">
+          <img className="Logo" src={Logo} alt="Logo MarceloFlix" />
+        </Link>
 
-      <Button as={Link} className="ButtonLink" to="cadastro/video">
-        Novo vídeo
-      </Button>
-    </nav>
+        <Button as={Link} className="ButtonLink" to="cadastro/video">
+          Novo vídeo
+        </Button>
+      </nav>
+    </header>
   );
 }
 
